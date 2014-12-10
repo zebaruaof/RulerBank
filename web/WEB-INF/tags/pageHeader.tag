@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap-theme.min.css" />
 <script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
-HHH
+
 
 <nav class="navbar navbar-default" role="navigation">
     <div class="container-fluid" id = "nav">
